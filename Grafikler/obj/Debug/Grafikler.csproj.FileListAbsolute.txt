@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\Grafikler\Grafikler\bin\Debug\Grafikler.exe.config
+C:\Users\Eren\source\repos\Grafikler\Grafikler\bin\Debug\Grafikler.exe
+C:\Users\Eren\source\repos\Grafikler\Grafikler\bin\Debug\Grafikler.pdb
+C:\Users\Eren\source\repos\Grafikler\Grafikler\obj\Debug\Grafikler.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\Grafikler\Grafikler\obj\Debug\Grafikler.Form1.resources
+C:\Users\Eren\source\repos\Grafikler\Grafikler\obj\Debug\Grafikler.Properties.Resources.resources
+C:\Users\Eren\source\repos\Grafikler\Grafikler\obj\Debug\Grafikler.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\Grafikler\Grafikler\obj\Debug\Grafikler.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\Grafikler\Grafikler\obj\Debug\Grafikler.exe
+C:\Users\Eren\source\repos\Grafikler\Grafikler\obj\Debug\Grafikler.pdb
